@@ -1,0 +1,44 @@
+{
+  "name": "OfficeHub | Forest & Orange",
+  "dataColors": [
+    "#103D35",
+    "#E97918",
+    "#286653",
+    "#718A4B",
+    "#F3A64A",
+    "#4F9B88",
+    "#A5B779",
+    "#B85C13"
+  ],
+  "background": "#F7F8F4",
+  "foreground": "#18372F",
+  "tableAccent": "#E97918",
+  "good": "#286653",
+  "neutral": "#E9A23B",
+  "bad": "#C74B42",
+  "maximum": "#103D35",
+  "center": "#F3A64A",
+  "minimum": "#E8EEE6",
+  "null": "#D7DDD6",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#103D35" } },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
